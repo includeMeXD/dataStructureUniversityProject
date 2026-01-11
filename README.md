@@ -3,6 +3,7 @@
 A simple command-line interface (CLI) application for browsing a movie catalog, built with C++. This project demonstrates the use of a multi-linked list data structure to organize movies by genre.
 
 ## About The Project
+![Visual Graph](images/activityDiagram.png)
 
 This program allows users to navigate through different movie genres and view the movies within each genre. The core data structure is a multi-linked list where:
 -   **Genres** are stored in a singly linked list (the parent list).
@@ -42,3 +43,10 @@ You need a C++ compiler installed on your system, such as `g++`.
 3.  You can then navigate the movies in that genre using the on-screen commands (`N` for next, `P` for previous, `W` to watch).
 4.  To return to the genre list, select `B`.
 5.  To quit the program, type `exit` in the main genre menu.
+
+## Special Thanks To
+![Cat GIF](images/meowl.gif)
+
+- Lecturer Dody Qori Utama and its assistants also the whole Data Structure and Algorithm teaching team at School of Computing in Telkom University
+- All of the lecturers at School of Computing in Telkom University
+- All of IF-48-INT and its Academic Advisor
