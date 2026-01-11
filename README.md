@@ -1,5 +1,8 @@
 # Movie Catalog CLI
 
+Name:
+- Hafizh Azrial (1030124440017)
+- Rakha Anargya Wibowo (103012440004)
 A simple command-line interface (CLI) application for browsing a movie catalog, built with C++. This project demonstrates the use of a multi-linked list data structure to organize movies by genre.
 
 ## About The Project
